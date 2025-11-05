@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# AI/ML
+*.pkl
+*.h5
+*.pb
+*.ckpt
+models/
+data/
+
+# Secrets & Environment
+.env
+.env.local
+*.key
+*.pem
+secrets/
+*.secret
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+*.tfvars
+
+# Kubernetes
+kubeconfig
+*.kubeconfig
+secrets.yaml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# CI/CD
+*.zip
+dist/
+build/
+
+# AWS
+.aws/
+credentials
+
+# Docker
+.dockerignore
+docker-compose.override.yml

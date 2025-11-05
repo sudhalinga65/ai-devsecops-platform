@@ -1,0 +1,26 @@
+# AI/ML Libraries
+openai==1.12.0
+anthropic==0.18.1
+pinecone-client==3.0.2
+langchain==0.1.9
+boto3==1.34.34
+sagemaker==2.207.1
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+
+# Monitoring & Observability
+datadog==0.49.1
+requests==2.31.0
+
+# DevOps Tools
+kubernetes==29.0.0
+ansible==9.2.0
+jinja2==3.1.3
+
+# Utilities
+python-dotenv==1.0.1
+pyyaml==6.0.1
+jsonschema==4.21.1
